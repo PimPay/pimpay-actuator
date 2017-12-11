@@ -25,7 +25,17 @@ import javax.xml.bind.annotation.XmlType;
 public enum CurrencyType {
 
     RUB,
-    KZT;
+    KZT,
+    USD,
+    EUR,
+    GBP,
+    CNY,
+    BYN,
+    UAH,
+    KGS,
+    AMD,
+    TL,
+    THB;
 
     public String value() {
         return name();
