@@ -34,7 +34,7 @@ public enum CurrencyType {
     UAH,
     KGS,
     AMD,
-    TL,
+    TRY,
     THB;
 
     public String value() {
